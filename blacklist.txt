@@ -1,5 +1,6 @@
 /([\w\d_-]+ptt|ptt[\w\d_-]+)\.(com|net|tw|cc)/
-*://ppfocus.com/*
+
+*://*.ppfocus.com/*
 *://*.plytic.com/*
 *://*.juejin.cn/*
 *://*.jianshu.com/*
@@ -17,3 +18,9 @@
 *://*.waihuikaihu.com.tw/*
 *://*.rpgwebgame.com/*
 *://*.jonescar.com.br/*
+
+*://*.githubmemory.com/*
+*://*.hackershare.dev/*
+*://*.giters.com/*
+*://*.lmubbs.com/*
+*://*.theofy.world/*

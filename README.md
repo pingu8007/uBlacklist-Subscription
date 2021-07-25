@@ -6,9 +6,9 @@ It is a browser extension that prevents blacklisted sites from appearing in Goog
 
 ## Why another blacklist
 
-> This is a very SUBJECTIVE list.
+> This is a very subjective, aggressive and maybe offensive list. Use at your own risk.
 
-This list is intent to be a supplement for [nonPointer's list] and targeting those content farms that stolen articles from PTT.cc.
+This list is intent to be a supplement for [nonPointer's list] and mostly targeting those content farms that stolen articles from PTT.cc.
 
 [nonPointer's list]: https://github.com/nonPointer/uBlacklist-Subscription
 
