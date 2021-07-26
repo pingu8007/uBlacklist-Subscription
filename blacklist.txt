@@ -24,3 +24,7 @@
 *://*.giters.com/*
 *://*.lmubbs.com/*
 *://*.theofy.world/*
+
+*://*.vimsky.com/*
+*://*.iter01.com/*
+*://*.codertw.com/*
