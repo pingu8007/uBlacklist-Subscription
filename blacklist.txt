@@ -19,6 +19,7 @@
 *://*.rpgwebgame.com/*
 *://*.jonescar.com.br/*
 
+*://*.gitmemory.com/*
 *://*.githubmemory.com/*
 *://*.hackershare.dev/*
 *://*.giters.com/*
