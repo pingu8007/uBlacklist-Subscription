@@ -28,4 +28,8 @@
 
 *://*.vimsky.com/*
 *://*.iter01.com/*
+*://*.itw01.com/*
 *://*.codertw.com/*
+
+*://*.proxy.huizhou.gov.cn/*
+*://github.55860.com/*
