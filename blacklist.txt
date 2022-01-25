@@ -18,6 +18,30 @@
 *://*.waihuikaihu.com.tw/*
 *://*.rpgwebgame.com/*
 *://*.jonescar.com.br/*
+*://*.cherryknow.com/*
+*://*.gushiciku.cn/*
+*://*.wellbay.cc/*
+*://*.bh1978.com/*
+*://*.njarts.cn/*
+*://*.jmangel.gd.cn/*
+*://*.686782.com/*
+*://*.218420.com/*
+*://*.373614.com/*
+*://*.yunlin.com.tw/*
+*://*.1applehealth.com/*
+*://*.tomchun.tw/*
+*://*.yufeng163.com/*
+*://*.plays01.com/*
+*://*.mediatagtw.com/*
+*://*.ludwig.guru/*
+*://*.jike.in/*
+*://*.titanwolf.org/*
+*://*.stackify.dev/*
+*://*.daytime.cool/*
+*://*.twgreatdaily.com/*
+*://*.examplefiles.net/*
+*://*.itectec.com/*
+*://*.pinkme.cc/*
 
 *://*.gitmemory.com/*
 *://*.githubmemory.com/*
@@ -25,6 +49,12 @@
 *://*.giters.com/*
 *://*.lmubbs.com/*
 *://*.theofy.world/*
+*://*.796t.com/*
+*://*.terryl.in/*
+*://*.newbedev.com/*
+*://*.pretagteam.com/*
+*://*.java2s.com/*
+*://*.tabnine.com/*
 
 *://*.vimsky.com/*
 *://*.iter01.com/*
@@ -33,3 +63,5 @@
 
 *://*.proxy.huizhou.gov.cn/*
 *://github.55860.com/*
+*://*.coderedirect.com/*
+*://*.issueexplorer.com/*
